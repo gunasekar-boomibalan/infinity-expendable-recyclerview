@@ -1,8 +1,10 @@
+
 # Infinity Expendable RecyclerView
 
 This is sample application for **Infinity expendable recyclerview**. this helps to create infinity level of child layout in single **RecyclerView**.
-##Sample
-![alt text](https://raw.githubusercontent.com/gunasekar-boomibalan/infinity-expendable-recyclerview/sample/sample.gif)
+
+## Sample
+![alt text](https://raw.githubusercontent.com/gunasekar-boomibalan/infinity-expendable-recyclerview/master/sample/sample.gif)
 
 
 ## Usage
