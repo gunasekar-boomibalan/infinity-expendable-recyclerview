@@ -1,6 +1,9 @@
 # Infinity Expendable RecyclerView
 
 This is sample application for **Infinity expendable recyclerview**. this helps to create infinity level of child layout in single **RecyclerView**.
+##Sample
+![alt text](https://raw.githubusercontent.com/gunasekar-boomibalan/infinity-expendable-recyclerview/sample/sample.gif)
+
 
 ## Usage
 The items to parse the list should be the  `Element`  Type. the Element must has  `id`, `parentId`,  `level`, `isExpended`, `hasChild` values
@@ -65,4 +68,4 @@ public class Element {
 ```
 ## About
 
-Infinity Expendable Recyclerview is maintained by [@Gunasekar-Boomibalan](https://github.com/gunasekar-boomibalan)# infinity-expendable-recyclerview
+Infinity Expendable Recyclerview is maintained by [@Gunasekar-Boomibalan](https://github.com/gunasekar-boomibalan) infinity-expendable-recyclerview
