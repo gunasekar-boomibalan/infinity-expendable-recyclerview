@@ -1,0 +1,232 @@
+[
+    {
+      "id": "A1",
+      "title": "India",
+      "level": 0,
+      "parentId": "A",
+      "hasChild": true,
+      "isExtended": false
+    },
+    {
+      "id": "A1A1",
+      "title": "Tamilnadu",
+      "level": 1,
+      "parentId": "A1",
+      "hasChild": true,
+      "isExtended": false
+    },
+    {
+      "id": "A1A2",
+      "title": "Andrapradhesh",
+      "level": 1,
+      "parentId": "A1",
+      "hasChild": true,
+      "isExtended": false
+    },
+    {
+      "id": "A1A3",
+      "title": "Karnataka",
+      "level": 1,
+      "parentId": "A1",
+      "hasChild": false,
+      "isExtended": false
+    },
+      {
+      "id": "A1A1A1",
+      "title": "Chennai",
+      "level": 2,
+      "parentId": "A1A1",
+      "hasChild": true,
+      "isExtended": false
+    },
+    {
+      "id": "A1A1A2",
+      "title": "Coimbatore",
+      "level": 2,
+      "parentId": "A1A1",
+      "hasChild": true,
+      "isExtended": false
+    },
+    {
+      "id": "A1A1A3",
+      "title": "Trichy",
+      "level": 2,
+      "parentId": "A1A1",
+      "hasChild": true,
+      "isExtended": false
+    },
+    {
+      "id": "A1A2A1",
+      "title": "Kadappa",
+      "level": 2,
+      "parentId": "A1A2",
+      "hasChild": true,
+      "isExtended": false
+    },
+    {
+      "id": "A1A2A2",
+      "title": "Karnool",
+      "level": 2,
+      "parentId": "A1A2",
+      "hasChild": true,
+      "isExtended": false
+    },
+    {
+      "id": "A1A2A3",
+      "title": "Chitoor",
+      "level": 2,
+      "parentId": "A1A2",
+      "hasChild": false,
+      "isExtended": false
+    },
+      {
+      "id": "A1A1A1A1",
+      "title": "Anna Nagar",
+      "level": 3,
+      "parentId": "A1A1A1",
+      "hasChild": false,
+      "isExtended": false
+    },
+    {
+      "id": "A1A1A1A2",
+      "title": "KK Nagar",
+      "level": 3,
+      "parentId": "A1A1A1",
+      "hasChild": false,
+      "isExtended": false
+    },
+    {
+      "id": "A1A1A1A3",
+      "title": "RK Nagar",
+      "level": 3,
+      "parentId": "A1A1A1",
+      "hasChild": false,
+      "isExtended": false
+    },
+    {
+      "id": "A1A1A2A1",
+      "title": "RS Puram",
+      "level": 3,
+      "parentId": "A1A1A2",
+      "hasChild": false,
+      "isExtended": false
+    },
+    {
+      "id": "A1A1A2A2",
+      "title": "Ukkadam",
+      "level": 3,
+      "parentId": "A1A1A2",
+      "hasChild": false,
+      "isExtended": false
+    },
+    {
+      "id": "A1A1A2A3",
+      "title": "Singanallure",
+      "level": 3,
+      "parentId": "A1A1A2",
+      "hasChild": false,
+      "isExtended": false
+    },{
+      "id": "A1A1A3A1",
+      "title": "Thillai Nagar",
+      "level": 3,
+      "parentId": "A1A1A3",
+      "hasChild": false,
+      "isExtended": false
+    },
+    {
+      "id": "A1A1A3A2",
+      "title": "Kilakuruchi",
+      "level": 3,
+      "parentId": "A1A1A3",
+      "hasChild": false,
+      "isExtended": false
+    },{
+      "id": "A1A1A1A1",
+      "title": "Prodhatoor",
+      "level": 3,
+      "parentId": "A1A2A1",
+      "hasChild": false,
+      "isExtended": false
+    },
+    {
+      "id": "A1A2A1A2",
+      "title": "Rayachoti",
+      "level": 3,
+      "parentId": "A1A2A1",
+      "hasChild": false,
+      "isExtended": false
+    },
+    {
+      "id": "A1A2A1A3",
+      "title": "Ramapuram",
+      "level": 3,
+      "parentId": "A1A2A1",
+      "hasChild": false,
+      "isExtended": false
+    },
+    {
+      "id": "A1A2A2A1",
+      "title": "nandhayal",
+      "level": 3,
+      "parentId": "A1A2A2",
+      "hasChild": false,
+      "isExtended": false
+    },
+    {
+      "id": "A1A2A2A2",
+      "title": "adonidhon",
+      "level": 3,
+      "parentId": "A1A2A2",
+      "hasChild": false,
+      "isExtended": false
+    },
+    {
+      "id": "A1A2A2A3",
+      "title": "banagalpalli",
+      "level": 3,
+      "parentId": "A1A2A2",
+      "hasChild": false,
+      "isExtended": false
+    },
+    {
+      "id": "A1A1A3A3",
+      "title": " Woraiyur",
+      "level": 3,
+      "parentId": "A1A1A3",
+      "hasChild": false,
+      "isExtended": false
+    },
+    {
+      "id": "A2",
+      "title": "England",
+      "level": 0,
+      "parentId": "A",
+      "hasChild": true,
+      "isExtended": false
+    },
+    {
+      "id": "A2A1",
+      "title": "Bedfordshire",
+      "level": 1,
+      "parentId": "A2",
+      "hasChild": true,
+      "isExtended": false
+    },
+    {
+      "id": "A2A1A1",
+      "title": "Luton",
+      "level": 2,
+      "parentId": "A2A1",
+      "hasChild": true,
+      "isExtended": false
+    },
+    {
+      "id": "A2A1A1A1",
+      "title": "Woburn",
+      "level": 3,
+      "parentId": "A2A1A1",
+      "hasChild": false,
+      "isExtended": false
+    }
+  ]

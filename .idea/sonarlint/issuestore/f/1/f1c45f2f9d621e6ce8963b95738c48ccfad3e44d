@@ -1,0 +1,4 @@
+
+Žsquid:S1319	"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(’áÿ³8Öƒãºô-
+5squid:S1700"Rename field "elements"(ò’Éˆ8…ƒâºô-
+‘squid:S1319"sThe type of the "elements" object should be an interface such as "List" rather than the implementation "ArrayList".(ñ¢ŒÓ8Öƒãºô-

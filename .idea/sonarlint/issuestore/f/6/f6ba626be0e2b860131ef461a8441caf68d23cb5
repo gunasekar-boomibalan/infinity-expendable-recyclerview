@@ -1,0 +1,8 @@
+
+hsquid:S2674:"JCheck the return value of the "read" call to see how many bytes were read.(¿ÅÐ¾8ÃŒ®ºô-
+]squid:UselessImportCheck
+"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8ÚôÑ»ô-
+~squid:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ýÿÿÿÿ8±ÁÞ¯ô-
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(²Ú±Ž
+Fsquid:S1148-"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8£è³ºô-
+rsquid:S001006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿†ñàøÿÿÿÿ8ÃŒ®ºô-

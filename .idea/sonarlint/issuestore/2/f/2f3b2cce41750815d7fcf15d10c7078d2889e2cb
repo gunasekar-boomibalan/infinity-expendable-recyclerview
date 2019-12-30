@@ -1,0 +1,6 @@
+
+…squid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(µ·¼‘øÿÿÿÿ8±žû¯ô-
+esquid:HiddenFieldCheck"<Rename "listItem" which hides the field declared at line 14.(ÔÃÞŠ8±žû¯ô-
+squid:S1319"oThe type of the "item" object should be an interface such as "List" rather than the implementation "ArrayList".(Ì†ýÉ8ôÙ‡°ô-
+‘squid:S1319"sThe type of the "baseItem" object should be an interface such as "List" rather than the implementation "ArrayList".(Ì†ýÉ8âÃ÷¯ô-
+5squid:S2176M"Rename this class.(Â×žÖúÿÿÿÿ8ž“ó¯ô-
