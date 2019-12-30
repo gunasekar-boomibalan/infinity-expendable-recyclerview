@@ -70,4 +70,4 @@ public class Element {
 ```
 ## About
 
-Infinity Expendable Recyclerview is maintained by [@Gunasekar-Boomibalan](https://github.com/gunasekar-boomibalan) infinity-expendable-recyclerview
+Infinity Expendable Recyclerview is maintained by [@Gunasekar-Boomibalan](https://github.com/gunasekar-boomibalan)
