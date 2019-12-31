@@ -5,7 +5,7 @@ This is sample application for **Infinity expendable recyclerview**. this helps 
 
 ## Sample
 ![alt text](https://raw.githubusercontent.com/gunasekar-boomibalan/infinity-expendable-recyclerview/master/sample/sample.gif)
-
+![alt text](https://raw.githubusercontent.com/gunasekar-boomibalan/infinity-expendable-recyclerview/master/sample/sample-image.png)
 
 ## Usage
 The items to parse the list should be the  `Element`  Type. the Element must has  `id`, `parentId`,  `level`, `isExpended`, `hasChild` values

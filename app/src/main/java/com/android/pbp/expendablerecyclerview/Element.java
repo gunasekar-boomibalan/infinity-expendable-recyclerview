@@ -1,12 +1,22 @@
 package com.android.pbp.expendablerecyclerview;
 
 public class Element {
-        private String id;
+    public static final String NO_PARENT = "A";
+    private String id;
         private String title;
         private String parentId;
         private int level;
-        private boolean isExtended;
+        private boolean isExpended;
         private boolean hasChild;
+
+        public Element(String id,String title,String parentId,int level,boolean isExtended,boolean hasChild){
+            this.id= id;
+            this.title =title;
+            this.parentId =parentId;
+            this.level = level;
+            this.isExpended = isExtended;
+            this.hasChild = hasChild;
+        }
 
         public String getId() {
             return id;
@@ -41,11 +51,11 @@ public class Element {
         }
 
         public boolean isExtended() {
-            return isExtended;
+            return isExpended;
         }
 
-        public void setExtended(boolean extended) {
-            isExtended = extended;
+        public void setExtended(boolean expended) {
+            isExpended = expended;
         }
 
         public boolean isHasChild() {
